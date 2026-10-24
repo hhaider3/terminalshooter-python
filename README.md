@@ -1,7 +1,9 @@
-# Previous Python version
+# TERMINAL // BREACH — Python edition
 
-The Rust game is now the default; see the root README. The experimental native
-mouse lock has been removed from the Python version.
+This is the original Python version of TERMINAL // BREACH. It is no longer
+developed; the game continues as a Rust rewrite at
+[hhaider3/terminalshooter](https://github.com/hhaider3/terminalshooter).
+The experimental native mouse lock has been removed from this version.
 
 A short arena FPS for your terminal. Clear five waves with a spread shotgun,
 keep moving around cover, and dodge when enemies wind up an attack.
